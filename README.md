@@ -13,3 +13,7 @@ It is important to notice that it is required to only have 1 face of interest in
 If the first image has multiple faces, the program will STILL RUN and detect all recognized faces in the first and second image. However, it will still only select the first array of facial landmarks for comparison purposes.
 
 ![alt text](https://github.com/kimx3314/Face-Recognition-without-complex-model-building-/blob/master/README_Support_Image1.png)
+
+![alt text](https://github.com/kimx3314/Face-Recognition-without-complex-model-building-/blob/master/README_Support_Image2.png)
+
+![alt text](https://github.com/kimx3314/Face-Recognition-without-complex-model-building-/blob/master/README_Support_Image3.png)
