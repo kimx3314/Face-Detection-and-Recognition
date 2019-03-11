@@ -1,5 +1,5 @@
 ## Image Processing
-### Face Recognition
+### Face Detection and Recognition
 with Python
 
 by Sean Sungil Kim
