@@ -32,4 +32,4 @@ The --shape_predictor should be followed by the name of the shape predictor dat 
 
 A successful example run would look like the following (all files used are attached in this repository):
 
-![alt text](https://github.com/kimx3314/Face-Recognition-without-complex-model-building-/blob/master/README_Support_Image3.png)
+![alt text](https://github.com/kimx3314/Face-Detection-and-Recognition-without-Complex-Model-Building/blob/master/RESULTS/README_Support_Image3.png)
