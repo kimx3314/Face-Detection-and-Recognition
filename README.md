@@ -16,11 +16,11 @@ First you will need to download the FaceRecognition.py program and the shape pre
 
 If all files are downloaded, you need to open terminal/command prompt and set the current directory to the directory the files are in, as shown below:
 
-![alt text](https://github.com/kimx3314/Face-Recognition-without-complex-model-building-/blob/master/README_Support_Image1.png)
+![alt text](https://github.com/kimx3314/Face-Detection-and-Recognition-without-Complex-Model-Building/blob/master/RESULTS/README_Support_Image1.png)
 
 If you require help on what each of the arguments mean, you can refer to "help" as shown below:
 
-![alt text](https://github.com/kimx3314/Face-Recognition-without-complex-model-building-/blob/master/README_Support_Image2.png)
+![alt text](https://github.com/kimx3314/Face-Detection-and-Recognition-without-Complex-Model-Building/blob/master/RESULTS/README_Support_Image2.png)
 
 Example code:
 
